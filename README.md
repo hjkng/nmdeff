@@ -63,3 +63,5 @@ def predict_NMD_efficiency(downstream_exon_count:int, last_exon:int,
 The analysis.ipynb includes other analyses performed in the manuscript including univariate analysis and correlation analysis.
 
 The validation_MMRF_TARGET.ipynb includes the analyses using an independent datset, MMRF-TARGET datset as a test data.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13918125.svg)](https://doi.org/10.5281/zenodo.13918125)
