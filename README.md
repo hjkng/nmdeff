@@ -1,5 +1,7 @@
 # A spectrum of nonsense-mediated mRNA decay efficiency along the degree of mutational constraint
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13918125.svg)](https://doi.org/10.5281/zenodo.13918125)
+
 ## Overview
 A landmark study has proposed several factors on nonsense-mediated mRNA decay (NMD) efficiency using matched genome and transcriptome data of human cancer but was highly affected by random variance caused in measuring the NMD efficiency. In this study, using a more precise, allele-specific expression-based measure of NMD efficiency, a more accurate NMD efficiency model was developed. Combining this model with the public germline variant database stratified by allele frequency, we showed a spectrum of NMD efficiency, from common variants to somatic variants in the cancer genome. 
 This software package was used for the training the NMD efficiency model from the TCGA data. The final training set is included in this package and the whole procedure including univariate analysis, correlation analysis, model training, and peformance validation can be demonstrated.
@@ -64,4 +66,3 @@ The analysis.ipynb includes other analyses performed in the manuscript including
 
 The validation_MMRF_TARGET.ipynb includes the analyses using an independent datset, MMRF-TARGET datset as a test data.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13918125.svg)](https://doi.org/10.5281/zenodo.13918125)
